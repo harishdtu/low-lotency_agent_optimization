@@ -1,0 +1,42 @@
+{
+  "name": "comsync_voice_stack1",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:client": "vite --host 0.0.0.0",
+    "dev:server": "tsx watch server/index.ts",
+    "build": "npm run typecheck && vite build",
+    "lint": "oxlint . --ignore-path .gitignore",
+    "typecheck": "tsc --noEmit --project tsconfig.app.json && tsc --noEmit --project tsconfig.server.json",
+    "test": "vitest run",
+    "preview": "vite preview --host 0.0.0.0",
+    "collect:bench": "tsx scripts/collect-benchmark.ts",
+    "analyze-latency": "tsx scripts/analyze-latency.ts"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1",
+    "openai": "^7.27.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "concurrently": "^10.0.5",
+    "oxlint": "^1.81.0",
+    "playwright": "^1.63.0",
+    "tsx": "^4.23.15",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0",
+    "vitest": "^5.0.3"
+  }
+}

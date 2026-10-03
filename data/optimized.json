@@ -1,0 +1,327 @@
+[
+  {
+    "interaction_id": "optimized-1",
+    "mode": "optimized",
+    "prompt": "What is the capital of France?",
+    "response": "Here is the direct answer for “What is the capital of France?”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 60,
+      "llm_total": 4203
+    },
+    "success": true,
+    "started_at": 1791008177767,
+    "finished_at": 1791008181970
+  },
+  {
+    "interaction_id": "optimized-2",
+    "mode": "optimized",
+    "prompt": "Explain APIs in one sentence.",
+    "response": "Here is the direct answer for “Explain APIs in one sentence.”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 5,
+      "llm_total": 4093
+    },
+    "success": true,
+    "started_at": 1791008181970,
+    "finished_at": 1791008186063
+  },
+  {
+    "interaction_id": "optimized-3",
+    "mode": "optimized",
+    "prompt": "What is TypeScript?",
+    "response": "Here is the direct answer for “What is TypeScript?”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 5,
+      "llm_total": 3975
+    },
+    "success": true,
+    "started_at": 1791008186063,
+    "finished_at": 1791008190038
+  },
+  {
+    "interaction_id": "optimized-4",
+    "mode": "optimized",
+    "prompt": "What is the difference between HTTP and WebSockets?",
+    "response": "Here is the direct answer for “What is the difference between H”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 3,
+      "llm_total": 4210
+    },
+    "success": true,
+    "started_at": 1791008190039,
+    "finished_at": 1791008194249
+  },
+  {
+    "interaction_id": "optimized-5",
+    "mode": "optimized",
+    "prompt": "Give me three tips for learning React.",
+    "response": "Here is the direct answer for “Give me three tips for learning ”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 4,
+      "llm_total": 4266
+    },
+    "success": true,
+    "started_at": 1791008194249,
+    "finished_at": 1791008198515
+  },
+  {
+    "interaction_id": "optimized-6",
+    "mode": "optimized",
+    "prompt": "What is a database?",
+    "response": "Here is the direct answer for “What is a database?”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 4,
+      "llm_total": 4077
+    },
+    "success": true,
+    "started_at": 1791008198515,
+    "finished_at": 1791008202592
+  },
+  {
+    "interaction_id": "optimized-7",
+    "mode": "optimized",
+    "prompt": "Explain caching simply.",
+    "response": "Here is the direct answer for “Explain caching simply.”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 8,
+      "llm_total": 4023
+    },
+    "success": true,
+    "started_at": 1791008202592,
+    "finished_at": 1791008206615
+  },
+  {
+    "interaction_id": "optimized-8",
+    "mode": "optimized",
+    "prompt": "What does latency mean?",
+    "response": "Here is the direct answer for “What does latency mean?”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 4,
+      "llm_total": 4101
+    },
+    "success": true,
+    "started_at": 1791008206615,
+    "finished_at": 1791008210716
+  },
+  {
+    "interaction_id": "optimized-9",
+    "mode": "optimized",
+    "prompt": "What is Docker?",
+    "response": "Here is the direct answer for “What is Docker?”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 7,
+      "llm_total": 4015
+    },
+    "success": true,
+    "started_at": 1791008210716,
+    "finished_at": 1791008214731
+  },
+  {
+    "interaction_id": "optimized-10",
+    "mode": "optimized",
+    "prompt": "Explain REST APIs.",
+    "response": "Here is the direct answer for “Explain REST APIs.”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 8,
+      "llm_total": 4014
+    },
+    "success": true,
+    "started_at": 1791008214731,
+    "finished_at": 1791008218745
+  },
+  {
+    "interaction_id": "optimized-11",
+    "mode": "optimized",
+    "prompt": "What is an event loop?",
+    "response": "Here is the direct answer for “What is an event loop?”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 7,
+      "llm_total": 4144
+    },
+    "success": true,
+    "started_at": 1791008218745,
+    "finished_at": 1791008222889
+  },
+  {
+    "interaction_id": "optimized-12",
+    "mode": "optimized",
+    "prompt": "What is a promise in JavaScript?",
+    "response": "Here is the direct answer for “What is a promise in JavaScript?”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 5,
+      "llm_total": 4203
+    },
+    "success": true,
+    "started_at": 1791008222890,
+    "finished_at": 1791008227093
+  },
+  {
+    "interaction_id": "optimized-13",
+    "mode": "optimized",
+    "prompt": "Explain PostgreSQL.",
+    "response": "Here is the direct answer for “Explain PostgreSQL.”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 7,
+      "llm_total": 3972
+    },
+    "success": true,
+    "started_at": 1791008227093,
+    "finished_at": 1791008231065
+  },
+  {
+    "interaction_id": "optimized-14",
+    "mode": "optimized",
+    "prompt": "What is an API gateway?",
+    "response": "Here is the direct answer for “What is an API gateway?”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 3,
+      "llm_total": 4134
+    },
+    "success": true,
+    "started_at": 1791008231065,
+    "finished_at": 1791008235199
+  },
+  {
+    "interaction_id": "optimized-15",
+    "mode": "optimized",
+    "prompt": "What is streaming?",
+    "response": "Here is the direct answer for “What is streaming?”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 5,
+      "llm_total": 4015
+    },
+    "success": true,
+    "started_at": 1791008235199,
+    "finished_at": 1791008239214
+  },
+  {
+    "interaction_id": "optimized-16",
+    "mode": "optimized",
+    "prompt": "Explain load balancing.",
+    "response": "Here is the direct answer for “Explain load balancing.”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 3,
+      "llm_total": 4026
+    },
+    "success": true,
+    "started_at": 1791008239214,
+    "finished_at": 1791008243240
+  },
+  {
+    "interaction_id": "optimized-17",
+    "mode": "optimized",
+    "prompt": "What is WebRTC?",
+    "response": "Here is the direct answer for “What is WebRTC?”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 6,
+      "llm_total": 4010
+    },
+    "success": true,
+    "started_at": 1791008243240,
+    "finished_at": 1791008247250
+  },
+  {
+    "interaction_id": "optimized-18",
+    "mode": "optimized",
+    "prompt": "Explain authentication.",
+    "response": "Here is the direct answer for “Explain authentication.”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 3,
+      "llm_total": 3970
+    },
+    "success": true,
+    "started_at": 1791008247250,
+    "finished_at": 1791008251220
+  },
+  {
+    "interaction_id": "optimized-19",
+    "mode": "optimized",
+    "prompt": "What is a vector database?",
+    "response": "Here is the direct answer for “What is a vector database?”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 2,
+      "llm_total": 4144
+    },
+    "success": true,
+    "started_at": 1791008251220,
+    "finished_at": 1791008255364
+  },
+  {
+    "interaction_id": "optimized-20",
+    "mode": "optimized",
+    "prompt": "Explain RAG.",
+    "response": "Here is the direct answer for “Explain RAG.”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 5,
+      "llm_total": 3956
+    },
+    "success": true,
+    "started_at": 1791008255364,
+    "finished_at": 1791008259320
+  },
+  {
+    "interaction_id": "optimized-21",
+    "mode": "optimized",
+    "prompt": "What is a microservice?",
+    "response": "Here is the direct answer for “What is a microservice?”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 2,
+      "llm_total": 4079
+    },
+    "success": true,
+    "started_at": 1791008259320,
+    "finished_at": 1791008263399
+  },
+  {
+    "interaction_id": "optimized-22",
+    "mode": "optimized",
+    "prompt": "What is observability?",
+    "response": "Here is the direct answer for “What is observability?”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 3,
+      "llm_total": 4016
+    },
+    "success": true,
+    "started_at": 1791008263399,
+    "finished_at": 1791008267415
+  },
+  {
+    "interaction_id": "optimized-23",
+    "mode": "optimized",
+    "prompt": "Explain rate limiting.",
+    "response": "Here is the direct answer for “Explain rate limiting.”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 4,
+      "llm_total": 4074
+    },
+    "success": true,
+    "started_at": 1791008267415,
+    "finished_at": 1791008271489
+  },
+  {
+    "interaction_id": "optimized-24",
+    "mode": "optimized",
+    "prompt": "What is a reverse proxy?",
+    "response": "Here is the direct answer for “What is a reverse proxy?”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 5,
+      "llm_total": 4144
+    },
+    "success": true,
+    "started_at": 1791008271490,
+    "finished_at": 1791008275634
+  },
+  {
+    "interaction_id": "optimized-25",
+    "mode": "optimized",
+    "prompt": "How would you design a voice agent?",
+    "response": "Here is the direct answer for “How would you design a voice age”: The shortest path to low latency is to reduce the largest blocking stage and stream work as soon as it is useful. In voice systems, that usually means streaming STT and LLM output while the user is still in the conversation loop, then beginning TTS on complete sentence chunks instead of waiting for the entire response.",
+    "latencies": {
+      "llm_ttft": 5,
+      "llm_total": 4277
+    },
+    "success": true,
+    "started_at": 1791008275634,
+    "finished_at": 1791008279911
+  }
+]
